@@ -51,8 +51,9 @@ const IndexPage = ({
       <Hero>
         <h1>Hi.</h1>
         <p>
-          I&apos;m John Doe, a Senior UX Developer with five years of industry experience, specializing in developing
-          React apps with the best UX users can get.
+        I'm Matt Hanson. stA digital designer that loves the process of planning and creating user-friendly designs. 
+        I work in the boundaries of User Experience Design to construct the best experiences possible for both the company and users while maintaining the project needs.
+        I am intrigued by the way design can influence people, and I am passionate about making sure this reflects in my work.
         </p>
         <Link to="/contact">
           <Button big>
